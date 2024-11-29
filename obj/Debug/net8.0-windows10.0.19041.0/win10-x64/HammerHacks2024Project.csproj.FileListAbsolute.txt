@@ -1,0 +1,12 @@
+C:\Users\beckett\source\repos\HammerHacks2024Project\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\HammerHacks2024Project.csproj.AssemblyReference.cache
+C:\Users\beckett\source\repos\HammerHacks2024Project\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\beckett\source\repos\HammerHacks2024Project\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\beckett\source\repos\HammerHacks2024Project\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\beckett\source\repos\HammerHacks2024Project\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\beckett\source\repos\HammerHacks2024Project\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\beckett\source\repos\HammerHacks2024Project\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\beckett\source\repos\HammerHacks2024Project\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\beckett\source\repos\HammerHacks2024Project\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\beckett\source\repos\HammerHacks2024Project\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\beckett\source\repos\HammerHacks2024Project\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\beckett\source\repos\HammerHacks2024Project\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\HammerHacks2024Project.GeneratedMSBuildEditorConfig.editorconfig
